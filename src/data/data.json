@@ -1,0 +1,243 @@
+{
+  "stops" : [
+      "AC Guards",
+      "Airport - Arrivals",
+      "Airport - Domestic Departures",
+      "Airport - Pushpak Terminal",
+      "Allwyn X Road",
+      "Balapur X Road",
+      "Botanical Garden",
+      "Care Hospital - Banjara Hills",
+      "Gachibowli",
+      "IICT - Tarnaka",
+      "JNTU",
+      "Jubliee Bus Station",
+      "LB Nagar X Road",
+      "Miyapur X Road",
+      "NMDC",
+      "Pahadi Shareef",
+      "Paryatak Bhavan - Greenlands",
+      "Sangeet Cinema",
+      "Secretariat",
+      "Secunderabad Rly Station",
+      "Shamshabad",
+      "Shilparamam",
+      "Tarnaka",
+      "Uppal X Road",
+      "Yatrinivas - Rasoolpura",
+      "Miyapur Depot",
+      "Contonment Depot"
+  ],
+  "routes" : [
+    {
+      "Origin": "AC Guards",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AM_Up"
+    },
+    {
+      "Origin": "Allwyn X Road",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AK_Up"
+    },
+    {
+      "Origin": "Balapur X Road",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AL_Up"
+    },
+    {
+      "Origin": "Botanical Garden",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AK_Up"
+    },
+    {
+      "Origin": "Care Hospital - Banjara Hills",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AC_Up"
+    },
+    {
+      "Origin": "Gachibowli",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AJ_Up, AK_Up"
+    },
+    {
+      "Origin": "JNTU",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AJ_Up"
+    },
+    {
+      "Origin": "Jubliee Bus Station",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AL_Up, AC_Up, AM_Up"
+    },
+    {
+      "Origin": "LB Nagar X Road",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AL_Up"
+    },
+    {
+      "Origin": "Miyapur X Road",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AK_Up, AJ_Up"
+    },
+    {
+      "Origin": "NMDC",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AC_Up, AM_Up"
+    },
+    {
+      "Origin": "Pahadi Shareef",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AL_Up"
+    },
+    {
+      "Origin": "Paryatak Bhavan - Greenlands",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AC_Up"
+    },
+    {
+      "Origin": "Sangeet Cinema",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AL_Up"
+    },
+    {
+      "Origin": "Secretariat",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AM_Up"
+    },
+    {
+      "Origin": "Secunderabad Rly Station",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AC_Up, AM_Up"
+    },
+    {
+      "Origin": "Shamshabad",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AC_Up, AM_Up"
+    },
+    {
+      "Origin": "Shilparamam",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AJ_Up"
+    },
+    {
+      "Origin": "Tarnaka",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AL_Up"
+    },
+    {
+      "Origin": "Uppal X Road",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AL_Up"
+    },
+    {
+      "Origin": "Yatrinivas - Rasoolpura",
+      "Destination": "Airport - Domestic Departures",
+      "Routes": "AC_Up"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "AC Guards",
+      "Routes": "AM_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Allwyn X Road",
+      "Routes": "AK_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Balapur X Road",
+      "Routes": "AL_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Botanical Garden",
+      "Routes": "AJ_Down, AK_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Care Hospital - Banjara Hills",
+      "Routes": "AC_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Gachibowli",
+      "Routes": "AJ_Down, AK_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "JNTU",
+      "Routes": "AJ_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Jubliee Bus Station",
+      "Routes": "AL_Down, AC_Down, AM_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "LB Nagar X Road",
+      "Routes": "AL_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Miyapur X Road",
+      "Routes": "AK_Down, AJ_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "NMDC",
+      "Routes": "AC_Down, AM_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Pahadi Shareef",
+      "Routes": "AL_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Paryatak Bhavan - Greenlands",
+      "Routes": "AC_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Sangeet Cinema",
+      "Routes": "AL_Down, AC_Down, AM_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Secretariat",
+      "Routes": "AM_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Secunderabad Rly Station",
+      "Routes": "AC_Down, AM_Down, AL_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Shamshabad",
+      "Routes": "AC_Down, AM_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Shilparamam",
+      "Routes": "AJ_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Tarnaka",
+      "Routes": "AL_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Uppal X Road",
+      "Routes": "AL_Down"
+    },
+    {
+      "Origin": "Airport - Arrivals",
+      "Destination": "Yatrinivas - Rasoolpura",
+      "Routes": "AC_Down, AM_Down"
+    }
+  ]
+}
