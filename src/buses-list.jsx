@@ -37,7 +37,7 @@ export const BusesList = ({ routes }) => {
     return data;
   }, {
     // Refetch the data every second
-    refetchInterval: 5000,
+    refetchInterval: 100,
   });
 
     useEffect(() => {
