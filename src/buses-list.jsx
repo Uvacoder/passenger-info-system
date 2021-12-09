@@ -16,7 +16,7 @@ export const BusesList = ({ routes }) => {
         for(let i = 0; i < Object.keys(etaData).length ; i++) {
           const values = Object.values(etaData);
           const busData = values[i];
-          if(busData !== 'eta' && i === 2) {
+          if(busData !== 'eta') {
 
             console.log({busData, bus: Object.keys(etaData)[i]});
 
@@ -35,9 +35,6 @@ export const BusesList = ({ routes }) => {
       "https://6c05x42fjc.execute-api.ap-south-1.amazonaws.com/all_data"
     );
     return data;
-  }, {
-    // Refetch the data every second
-    refetchInterval: 5000,
   });
 
     useEffect(() => {
@@ -47,7 +44,7 @@ export const BusesList = ({ routes }) => {
         console.log(buses);
         setBuses(buses);
       }
-    }, [data, routes, buses]);
+    }, [data, routes]);
 
     return (
     <div>

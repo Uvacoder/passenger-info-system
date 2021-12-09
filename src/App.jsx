@@ -39,6 +39,7 @@ const App = () => {
       >
         <Select
           searchable
+          clearable
           styles={{ root: { width: '30%', marginBottom: '12px' } }}
           value={startingPoint} 
           disabled={isStartingPointDisabled}
