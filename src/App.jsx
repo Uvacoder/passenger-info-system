@@ -57,6 +57,7 @@ const App = () => {
         />
         <Select
           searchable
+          clearable
           styles={{ root: { width: '30%' } }}
           value={destination} 
           disabled={isDestinationDisabled}
